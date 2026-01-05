@@ -13,10 +13,10 @@ export default function Home() {
         <h1>Sweet en Sour</h1>
         <nav aria-label="Hoofdnavigatie">
           <ul className="nav flex-column align-items-center button-container">
-            <li className="nav-item"><a href="/snoepjes" className="btn btn-danger custom-btn bounce-btn mb-2" aria-label="Bekijk onze producten">Producten</a></li>
-            <li className="nav-item"><a href="/over-ons" className="btn btn-primary custom-btn bounce-btn mb-2" aria-label="Lees over ons">Over ons</a></li>
-            <li className="nav-item"><a href="/contact" className="btn btn-warning custom-btn bounce-btn mb-2" aria-label="Plaats een bestelling">Bestelling plaatsen</a></li>
-<li className="nav-item"><a href="https://www.survio.com/survey/d/O5Z9K3T9R9Y6G1M2W" className="btn btn-succes custom-btn bounce-btn mb-2" aria-label="vul een enquête in">Vul deze enquête in alleen als je snoep hebt besteld</a></li>
+             <li className="nav-item"><a href="/snoepjes" className="btn custom-btn bounce-btn mb-2" aria-label="Bekijk onze producten">Producten</a></li>
+             <li className="nav-item"><a href="/over-ons" className="btn custom-btn bounce-btn mb-2" aria-label="Lees over ons">Over ons</a></li>
+             <li className="nav-item"><a href="/contact" className="btn custom-btn bounce-btn mb-2" aria-label="Plaats een bestelling">Bestelling plaatsen</a></li>
+          <li className="nav-item"><a href="https://www.survio.com/survey/d/O5Z9K3T9R9Y6G1M2W" className="btn custom-btn bounce-btn mb-2" aria-label="vul een enquête in">Vul deze enquête in alleen als je snoep hebt besteld</a></li>
 
             <li className="nav-item"><hr className="divider"/></li>
 
